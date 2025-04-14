@@ -7,9 +7,6 @@ This project uses **Natural Language Processing (NLP)** and **Generative AI** to
 - 🧩 Cluster products into categories
 - 📝 Summarize reviews into clear recommendation articles
 
-## 🔗 Live Demo
-
-👉 [Try the Streamlit App](https://amazon-stramlit-byczy8jxfuzhsi2fcyrjhc.streamlit.app/) – See how products are clustered into meaningful categories!
 
 ---
 
